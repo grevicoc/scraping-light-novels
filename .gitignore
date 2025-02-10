@@ -1,0 +1,3 @@
+**/*.pdf
+!example_file_result.pdf
+!/light_novel_pdfs/example_chapter_result.pdf
